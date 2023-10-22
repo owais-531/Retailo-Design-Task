@@ -1,3 +1,8 @@
+Tools Used:
+Frontend - React (Typescript)
+Backend - ExpressJS/ NodeJS (Typescript)
+Database - MongoDB
+
 To run the application:
 
 1. Open the folder named "Shipment" in your code editor.
