@@ -1,7 +1,7 @@
 Tools Used:
-Frontend - React (Typescript)
-Backend - ExpressJS/ NodeJS (Typescript)
-Database - MongoDB
+1. Frontend - React (Typescript)
+2. Backend - ExpressJS/ NodeJS (Typescript)
+3. Database - MongoDB
 
 To run the application:
 
